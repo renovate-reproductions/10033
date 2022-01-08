@@ -1285,7 +1285,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 
 [[package]]
 name = "weasyprint"
-version = "53.4"
+version = "54.0"
 description = "The Awesome Document Factory"
 category = "main"
 optional = false
@@ -1295,7 +1295,7 @@ python-versions = ">=3.6"
 cffi = ">=0.6"
 cssselect2 = ">=0.1"
 fonttools = {version = ">=4.0.0", extras = ["woff"]}
-html5lib = ">=1.0.1"
+html5lib = ">=1.1"
 Pillow = ">=4.0.0"
 pydyf = ">=0.0.3"
 Pyphen = ">=0.9.1"
@@ -1343,7 +1343,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "3.9.7"
-content-hash = "8820999cd33dfb048c1e94ef6fc61550b24e9215f27bb8fa0af7e94e8b8fd376"
+content-hash = "391d131bc76944d3bc4eb7b26766c226dedab03005b203b5e9940d2b66c872c7"
 
 [metadata.files]
 appdirs = [
@@ -2494,8 +2494,8 @@ virtualenv = [
     {file = "virtualenv-20.10.0.tar.gz", hash = "sha256:576d05b46eace16a9c348085f7d0dc8ef28713a2cabaa1cf0aea41e8f12c9218"},
 ]
 weasyprint = [
-    {file = "weasyprint-53.4-py3-none-any.whl", hash = "sha256:a48872d9ec4ba41bc09fec789fb1b5595aef005d1544060f4f255e1f20708852"},
-    {file = "weasyprint-53.4.tar.gz", hash = "sha256:10ccb17d55c73096bdf1edd3efe58cb855b07e4c307d9bad4ebc9a3f13ff4580"},
+    {file = "weasyprint-54.0-py3-none-any.whl", hash = "sha256:7314a92545ad72e8909a4c6f73661aab6bdb8e19ace5cacdbbc50d143d1049a4"},
+    {file = "weasyprint-54.0.tar.gz", hash = "sha256:0aeda9a045c7881289420cac917cc57115b1243e476187338e66d593dd000853"},
 ]
 webencodings = [
     {file = "webencodings-0.5.1-py2.py3-none-any.whl", hash = "sha256:a0af1213f3c2226497a97e2b3aa01a7e4bee4f403f95be16fc9acd2947514a78"},
